@@ -5,7 +5,7 @@ Explore the power of PySpark DataFrames for efficient data analysis. Learn to cr
 **What is this project ?**
 This project serves as a hands-on educational resource for understanding and utilizing PySpark DataFrames. It showcases how to create DataFrames from external datasets, apply transformations, perform data analysis, and derive insights from the structured data. By providing step-by-step examples, this project simplifies the process of learning and applying PySpark's data processing functionalities.
 
-**Why this project ?**
+**Why did you do it ?**
 This project was developed to address the need for practical and approachable resources to learn PySpark DataFrames. As data analysis and processing become more critical in various fields, there is a growing demand for tools that enable efficient handling of large datasets. This project aims to bridge the gap between theoretical knowledge and practical skills by providing real-world examples of data manipulation using PySpark DataFrames.
 
 **What are the gains from doing this project ?**
