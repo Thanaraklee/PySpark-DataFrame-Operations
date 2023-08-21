@@ -1,6 +1,10 @@
-# PySpark-DataFrame-Operations
-## Welcome to project
-Explore the power of PySpark DataFrames for efficient data analysis. Learn to create, transform, and gain insights from large datasets using PySpark's capabilities.
+# PySpark DataFrame Operations
+
+<p align="center">
+  <img src="https://camo.githubusercontent.com/7c65ec1949a034980db4db9e1068591c443fa5266dc424ecba5da7cb92f18f89/68747470733a2f2f7777772e676b7463732e696e2f6d656469612f626c6f675f706963732f323031392f30372f30322f7079737061726b2e706e67" alt="PySpark" />
+</p>
+
+Welcome to the "PySpark DataFrame Operations." In this project, we will explore the power of PySpark DataFrames for efficient data analysis. Learn to create, transform, and gain insights from large datasets using PySpark's capabilities.
 
 **What is this project ?**
 This project serves as a hands-on educational resource for understanding and utilizing PySpark DataFrames. It showcases how to create DataFrames from external datasets, apply transformations, perform data analysis, and derive insights from the structured data. By providing step-by-step examples, this project simplifies the process of learning and applying PySpark's data processing functionalities.
